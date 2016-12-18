@@ -5,7 +5,7 @@ package org.kay.learn.java8.functionalinterface;
  */
 public class FuncInterfaceMain {
     /*
-     * This method adheres to the specification of square in TrialFuncInterface
+     * This method adheres to the specification of SquareOfDouble in TrialFuncInterface
      * So it can be used to assign to a TrialFuncInterface reference
      */
     public static int square(int num) {

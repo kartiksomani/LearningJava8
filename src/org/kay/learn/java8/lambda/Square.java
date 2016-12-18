@@ -2,7 +2,7 @@ package org.kay.learn.java8.lambda;
 
 /**
  * Created by kay on 11/12/16.
- * Represents a square
+ * Represents a SquareOfDouble
  */
 public class Square {
     private int length;
